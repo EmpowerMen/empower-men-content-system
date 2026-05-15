@@ -6,12 +6,6 @@ Inclusive language, screen reader compatibility, and cognitive accessibility rul
 
 ## Hard Rules
 
-### Inclusive Language
-
-1. Do not use ability-based metaphors or idioms.
-2. Do not reference sensory actions as requirements (see, hear, watch).
-3. Use person-first or identity-first language based on community preference.
-4. Do not use gendered terms when gender is unknown or irrelevant.
 
 ### Screen Reader Compatibility
 
