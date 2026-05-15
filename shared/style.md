@@ -25,7 +25,7 @@ Capitalization, punctuation, formatting, and structure rules for all content out
    - Complete sentence tooltips
    - Complete sentence error messages
 3. Serial comma required in all lists.
-4. En dash (–) for ranges. Em dash (—) for breaks. No surrounding spaces.
+4. En dash (–) for ranges. Limit use of the Em dash (—) for breaks to a maximum of one per output. No surrounding spaces.
 5. Straight quotes in code. Curly quotes in prose.
 
 ### Numbers
