@@ -19,7 +19,7 @@ Inclusive language, screen reader compatibility, and cognitive accessibility rul
 ### Reading Level
 
 1. Target 8th grade reading level for general UI content.
-2. Target a functional level of Professional Level reading level for all content.
+2. Target a functional level of Professional Level reading level for all content (educated men 25-45.
 3. Measure using Flesch-Kincaid or equivalent.
 4. Specialized terminology permitted if defined on first use or in glossary.
 
