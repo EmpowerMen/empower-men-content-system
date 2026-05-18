@@ -156,15 +156,153 @@
       }
     }
   },
-  "product_terms": {
-    "_comment": "Add product-specific terms here. Format: term-key with canonical, prohibited, and context."
+"product_terms": {
+  "archetypal-energies": {
+    "canonical": "archetypal energies",
+    "prohibited": ["archetypes", "personality types", "psychological forces"],
+    "context": "The four fundamental energies (King, Warrior, Magician, Lover) within the masculine psyche"
   },
-  "voice_attributes": {
-    "_comment": "Define product voice attributes here. Format: attribute name with definition and contrast.",
-    "example": {
-      "attribute": "Clear",
-      "definition": "We use plain language and get to the point.",
-      "contrast": "Clear, not clever."
-    }
+  "shadow-work": {
+    "canonical": "shadow work",
+    "prohibited": ["inner work", "self-work", "therapy"],
+    "context": "Process of examining unconscious patterns and repressed archetypal energies"
+  },
+  "masculine-spirit": {
+    "canonical": "masculine spirit",
+    "prohibited": ["male energy", "manhood", "masculinity"],
+    "context": "The essential vitality and purpose within men"
+  },
+  "integral": {
+    "canonical": "integral",
+    "prohibited": ["holistic", "complete", "whole"],
+    "context": "Balanced integration of all four archetypal energies"
+  },
+  "go-within": {
+    "canonical": "go within",
+    "prohibited": ["look inside", "introspect", "self-reflect"],
+    "context": "The practice of turning attention inward for self-examination"
+  },
+  "inner-workout": {
+    "canonical": "inner workout",
+    "prohibited": ["mental exercise", "psychological practice", "inner work"],
+    "context": "Deliberate practice of developing archetypal energies, parallel to physical training"
+  },
+  "soul-gym": {
+    "canonical": "soul gym",
+    "prohibited": ["spiritual practice space", "inner training ground"],
+    "context": "EmpowerMen as a dedicated space for masculine psychological development"
+  },
+  "archetypal-configuration": {
+    "canonical": "archetypal energy configuration",
+    "prohibited": ["personality profile", "archetype balance", "psychological makeup"],
+    "context": "Individual's unique balance of the four archetypal energies"
+  },
+  "sovereign-king": {
+    "canonical": "Sovereign King",
+    "prohibited": ["King archetype", "the King", "King energy"],
+    "context": "The mature masculine energy of leadership, order, and blessing"
+  },
+  "righteous-warrior": {
+    "canonical": "Righteous Warrior",
+    "prohibited": ["Warrior archetype", "the Warrior", "Warrior energy"],
+    "context": "The mature masculine energy of discipline, courage, and decisive action"
+  },
+  "wise-magician": {
+    "canonical": "Wise Magician",
+    "prohibited": ["Magician archetype", "the Magician", "Magician energy"],
+    "context": "The mature masculine energy of awareness, wisdom, and transformation"
+  },
+  "passionate-lover": {
+    "canonical": "Passionate Lover",
+    "prohibited": ["Lover archetype", "the Lover", "Lover energy"],
+    "context": "The mature masculine energy of connection, purpose, and appreciation"
+  },
+  "masculine-psyche": {
+    "canonical": "masculine psyche",
+    "prohibited": ["male psychology", "man's mind", "masculine psychology"],
+    "context": "The psychological structure and depths of the male mind"
+  },
+  "four-elements": {
+    "canonical": "four elements of the psyche",
+    "prohibited": ["four quadrants", "four parts", "four aspects"],
+    "context": "The King, Warrior, Magician, and Lover as foundational psychological elements"
+  },
+  "balance-opposites": {
+    "canonical": "balance the opposites",
+    "prohibited": ["find balance", "integrate polarities", "harmonize"],
+    "context": "Integrating shadow and light aspects of archetypal energies"
+  },
+  "get-in-the-zone": {
+    "canonical": "get in the zone",
+    "prohibited": ["reach flow state", "find your groove", "optimize performance"],
+    "context": "Achieving optimal functioning through balanced archetypal energies"
+  },
+  "your-domain": {
+    "canonical": "your domain",
+    "prohibited": ["your life", "your kingdom", "your territory"],
+    "context": "The areas of life a man is responsible for (financial, physical, spiritual)"
+  },
+  "do-the-work": {
+    "canonical": "do the work",
+    "prohibited": ["put in effort", "practice", "engage with the process"],
+    "context": "Commitment to consistent shadow work and archetypal development"
+  },
+  "co-create": {
+    "canonical": "co-create",
+    "prohibited": ["work together", "collaborate", "build together"],
+    "context": "Partnership between individual effort and community support in transformation"
+  },
+  "step-up": {
+    "canonical": "step up",
+    "prohibited": ["rise to the occasion", "take action", "be better"],
+    "context": "Taking personal responsibility and moving toward mature masculine expression"
+  },
+  "raw-archetypal-energy": {
+    "canonical": "raw archetypal energy",
+    "prohibited": ["unintegrated energy", "immature archetype", "undeveloped force"],
+    "context": "Unbalanced or shadow expression of archetypal forces"
+  },
+  "repressed-archetypal-energy": {
+    "canonical": "repressed archetypal energy",
+    "prohibited": ["blocked energy", "suppressed archetype", "denied force"],
+    "context": "Archetypal energy that has been pushed into the unconscious"
+  }
+},
+"voice_attributes": {
+  "empowering-no-bullshit": {
+    "attribute": "Empowering and No-Bullshit",
+    "definition": "Direct, motivating, and unapologetically honest. Cut through noise with clear, actionable guidance.",
+    "contrast": "Straightforward and results-focused, not vague or patronizing.",
+    "example_this": "We're supposed to have our shit together. If you don't, you're not alone — but it's time to step up.",
+    "example_not_this": "It's okay if you're struggling; just take your time and be gentle with yourself."
+  },
+  "calm-reassuring-insightful": {
+    "attribute": "Calm, Reassuring, and Insightful",
+    "definition": "Grounded, steady, and wise. Acknowledge challenges without drama, offering clarity and perspective.",
+    "contrast": "Composed and realistic, not overly emotional or preachy.",
+    "example_this": "Growth isn't linear. You'll stumble, but you'll get stronger each time you get back up.",
+    "example_not_this": "You're a shining light of hope, and everything will be perfect soon!"
+  },
+  "playful-creative": {
+    "attribute": "Playful and Creative",
+    "definition": "Engaging and occasionally irreverent, using humor and cultural references to connect authentically.",
+    "contrast": "Witty and culturally aware, not juvenile or disrespectful.",
+    "example_this": "Think of this as your inner Fight Club — but instead of fighting others, you're fighting your own bullshit.",
+    "example_not_this": "Let's have fun and be silly while we grow!"
+  },
+  "direct-confident": {
+    "attribute": "Direct and Confident",
+    "definition": "Clear, straightforward, and authoritative without arrogance. Speak to men who want real results.",
+    "contrast": "Decisive and action-oriented, not hesitant or arrogant.",
+    "example_this": "You've got what it takes. Now it's time to stop making excuses and start doing the work.",
+    "example_not_this": "Maybe you could try some of these ideas if you feel like it."
+  }
+},
+"foundational_sources": {
+  "moore-lectures": {
+    "description": "Dr. Robert Moore's lecture transcripts on Jungian masculine psychology",
+    "location": "/foundations/moore-lectures/",
+    "citation_format": "Dr. Robert Moore, [Lecture Title] ([timestamp])",
+    "usage": "Primary source for archetype theory, shadow work, and masculine development concepts"
   }
 }
