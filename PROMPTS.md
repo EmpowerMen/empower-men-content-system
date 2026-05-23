@@ -225,6 +225,7 @@ Create [thumbnail headline / video title / video description] for:
 - Keywords: [keywords]
 ---
 
+---
 ## MCP & Agents
 
 ### System Prompt
