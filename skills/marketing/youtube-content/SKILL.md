@@ -1,7 +1,4 @@
-# SKILL.md
-
-## Skill Name  
-youtube-content
+## youtube-content
 
 ## Description  
 Create compelling YouTube video thumbnail headlines, video titles, and video descriptions optimized for the EmpowerMen channel focused on the King Warrior Magician Lover (KWML) framework and men's personal development.
