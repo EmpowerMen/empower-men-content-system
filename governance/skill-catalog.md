@@ -152,6 +152,7 @@ Skills for marketing and conversion-focused content.
 | `writing-product-messaging` | Write core product messaging | product messaging, positioning, value prop |
 | `writing-sales-enablement-content` | Write content for sales teams | sales enablement, battle cards, sales content |
 | `writing-social-media-content` | Write social media posts | social media, social post, Twitter, LinkedIn |
+| `youtube-content` | Draft thumbnail headlines, video titles, and description | YouTube |
 
 ---
 
