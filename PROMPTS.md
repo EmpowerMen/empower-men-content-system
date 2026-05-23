@@ -223,9 +223,8 @@ Create [thumbnail headline / video title / video description] for:
 - Target audience: [audience]
 - Key message: [message]
 - Keywords: [keywords]
----
+```
 
----
 ## MCP & Agents
 
 ### System Prompt
