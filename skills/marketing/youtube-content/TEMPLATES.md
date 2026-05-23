@@ -1,4 +1,4 @@
-# Template
+# Templates
 
 ## Thumbnail Headline Template  
 - 5-7 words max  
