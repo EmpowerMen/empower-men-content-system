@@ -215,6 +215,14 @@ Write a marketing email for [purpose].
 - CTA: [call to action]
 ```
 
+### YouTube Content
+```
+Create [thumbnail headline / video title / video description] for:
+
+- Video topic: [topic]
+- Target audience: [audience]
+- Key message: [message]
+- Keywords: [keywords]
 ---
 
 ## MCP & Agents
