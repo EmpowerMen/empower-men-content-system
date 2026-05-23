@@ -1,4 +1,6 @@
-# Thumbnail Headline Template  
+# Skill
+
+## Thumbnail Headline Template  
 - 5-7 words max  
 - Use power words and archetype references  
 - Example: "Unlock Your Inner Magician"  
