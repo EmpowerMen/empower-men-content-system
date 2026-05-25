@@ -1,0 +1,136 @@
+
+{
+  "source": "Dr. Robert Moore Lectures",
+  "description": "Complete lecture transcripts from Dr. Robert Moore on Jungian masculine psychology and archetypal theory",
+  "last_updated": "2026-05-25",
+  "version": "1.0",
+  "total_lectures": 0,
+  "series": [
+    {
+      "id": "kwml",
+      "title": "King, Warrior, Magician, Lover",
+      "description": "Foundational lecture series on the four masculine archetypes",
+      "folder": "transcripts/king-warrior-magician-lover",
+      "lecture_count": 0,
+      "lectures": []
+    },
+    {
+      "id": "masculine-psychology",
+      "title": "Masculine Psychology",
+      "description": "Deep dives into shadow work, initiation, and masculine development",
+      "folder": "transcripts/masculine-psychology",
+      "lecture_count": 0,
+      "lectures": []
+    }
+  ],
+  "topics_index": {
+    "king-archetype": {
+      "description": "The mature masculine energy of ordering, blessing, and generativity",
+      "lectures": [],
+      "key_concepts": ["ordering", "blessing", "generativity", "shadow king", "tyrant", "weakling"]
+    },
+    "warrior-archetype": {
+      "description": "The mature masculine energy of discipline, courage, and action",
+      "lectures": [],
+      "key_concepts": ["discipline", "courage", "boundaries", "shadow warrior", "sadist", "masochist"]
+    },
+    "magician-archetype": {
+      "description": "The mature masculine energy of awareness, wisdom, and transformation",
+      "lectures": [],
+      "key_concepts": ["awareness", "wisdom", "detachment", "shadow magician", "manipulator", "denying innocent one"]
+    },
+    "lover-archetype": {
+      "description": "The mature masculine energy of connection, passion, and appreciation",
+      "lectures": [],
+      "key_concepts": ["connection", "passion", "sensuality", "shadow lover", "addicted lover", "impotent lover"]
+    },
+    "shadow-work": {
+      "description": "Process of integrating unconscious and repressed archetypal energies",
+      "lectures": [],
+      "key_concepts": ["shadow integration", "projection", "possession", "inflation", "deflation"]
+    },
+    "initiation": {
+      "description": "Masculine rites of passage and developmental transitions",
+      "lectures": [],
+      "key_concepts": ["boy psychology", "man psychology", "initiation crisis", "elder blessing", "ritual"]
+    },
+    "archetypal-possession": {
+      "description": "When archetypal energies overwhelm the ego",
+      "lectures": [],
+      "key_concepts": ["inflation", "identification", "unconscious possession", "ego strength"]
+    },
+    "masculine-maturity": {
+      "description": "Development from boy psychology to mature masculine",
+      "lectures": [],
+      "key_concepts": ["generativity", "stewardship", "responsibility", "blessing power"]
+    }
+  },
+  "concepts_index": {
+    "ordering": {
+      "archetype": "king",
+      "definition": "The King's capacity to bring structure, stability, and right relationship to chaos",
+      "related_concepts": ["generativity", "blessing", "centeredness"]
+    },
+    "blessing": {
+      "archetype": "king",
+      "definition": "The King's power to affirm, empower, and call forth potential in others",
+      "related_concepts": ["generativity", "mirroring", "affirmation"]
+    },
+    "generativity": {
+      "archetype": "king",
+      "definition": "The creative, life-giving capacity to nurture and bring forth growth",
+      "related_concepts": ["ordering", "blessing", "fertility"]
+    },
+    "discipline": {
+      "archetype": "warrior",
+      "definition": "The Warrior's capacity for focused commitment and consistent action",
+      "related_concepts": ["training", "mastery", "dedication"]
+    },
+    "boundaries": {
+      "archetype": "warrior",
+      "definition": "The Warrior's ability to define, defend, and maintain appropriate limits",
+      "related_concepts": ["protection", "containment", "sacred space"]
+    },
+    "awareness": {
+      "archetype": "magician",
+      "definition": "The Magician's capacity for clear perception and conscious knowing",
+      "related_concepts": ["detachment", "observation", "insight"]
+    },
+    "transformation": {
+      "archetype": "magician",
+      "definition": "The Magician's power to transmute one form of energy into another",
+      "related_concepts": ["alchemy", "ritual", "technology"]
+    },
+    "connection": {
+      "archetype": "lover",
+      "definition": "The Lover's capacity for authentic relationship and felt experience",
+      "related_concepts": ["embodiment", "sensuality", "presence"]
+    },
+    "passion": {
+      "archetype": "lover",
+      "definition": "The Lover's full engagement with life, purpose, and meaning",
+      "related_concepts": ["enthusiasm", "commitment", "aliveness"]
+    }
+  },
+  "lecture_template": {
+    "id": "series-##",
+    "title": "Lecture Title",
+    "file": "transcripts/series-name/##-lecture-title.md",
+    "series": "series-id",
+    "lecture_number": 1,
+    "date_delivered": "YYYY-MM-DD",
+    "duration_minutes": 90,
+    "topics": ["topic1", "topic2"],
+    "archetypes": ["king", "warrior", "magician", "lover"],
+    "key_concepts": ["concept1", "concept2"],
+    "key_quotes": [
+      {
+        "text": "Quote text here",
+        "timestamp": "00:15:30",
+        "context": "Brief context about what Moore was discussing",
+        "topics": ["related-topic"]
+      }
+    ],
+    "related_lectures": ["series-##", "series-##"]
+  }
+}
