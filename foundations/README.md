@@ -17,7 +17,7 @@ The `/foundations/` directory serves as:
 ```
 /foundations/
 ├── README.md                    (this file)
-├── moore-lectures/              Dr. Robert Moore's lecture transcripts
+├── robert-moore-lectures/              Dr. Robert Moore's lecture transcripts
 │   ├── README.md
 │   ├── INDEX.json
 │   ├── transcripts/
@@ -28,7 +28,7 @@ The `/foundations/` directory serves as:
 
 ## Current Contents
 
-### Dr. Robert Moore Lectures (`/moore-lectures/`)
+### Dr. Robert Moore Lectures (`/robert-moore-lectures/`)
 
 Complete lecture transcripts from Dr. Robert Moore, the neo-Jungian psychologist whose work on masculine archetypes forms the theoretical foundation of EmpowerMen.
 
@@ -45,7 +45,7 @@ Complete lecture transcripts from Dr. Robert Moore, the neo-Jungian psychologist
 - Masculine initiation and development
 - Archetypal psychology applied to men's lives
 
-**See:** [moore-lectures/README.md](moore-lectures/README.md) for detailed usage instructions.
+**See:** [robert-moore-lectures/README.md](robert-moore-lectures/README.md) for detailed usage instructions.
 
 ## How to Use This Folder
 
@@ -53,7 +53,7 @@ Complete lecture transcripts from Dr. Robert Moore, the neo-Jungian psychologist
 
 When writing EmpowerMen content:
 
-1. **Reference Moore's work** - Check `/moore-lectures/INDEX.json` for relevant topics
+1. **Reference Moore's work** - Check `/robert-moore-lectures/INDEX.json` for relevant topics
 2. **Use exact quotes** - Pull quotes with proper timestamps and citations
 3. **Ground concepts** - Link your content back to foundational frameworks
 4. **Maintain integrity** - Ensure content aligns with Moore's psychological principles
@@ -96,7 +96,7 @@ When building features or tools:
 ```
 > "Blessing is the King's primary function."
 > — Dr. Robert Moore, *The King Archetype* (00:23:15)
-> [Source: `/foundations/moore-lectures/transcripts/kwml/02-king-archetype.md`]
+> [Source: `/foundations/robert-moore-lectures/transcripts/kwml/02-king-archetype.md`]
 ```
 
 ### When to Cite
@@ -205,7 +205,7 @@ Changes to `/foundations/` should be:
 
 ## Questions?
 
-- **About Moore's lectures:** See [moore-lectures/README.md](moore-lectures/README.md)
+- **About Moore's lectures:** See [robert-moore-lectures/README.md](moore-lectures/README.md)
 - **About adding sources:** Open an issue or discussion in the repo
 - **About citations:** Check `/governance/glossary.json` under `foundational_sources`
 - **About AI agent access:** See CLAUDE.md, AGENTS.md, or .cursorrules
