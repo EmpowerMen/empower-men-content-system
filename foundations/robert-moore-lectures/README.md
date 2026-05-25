@@ -9,7 +9,7 @@ Dr. Robert Moore (1942-2016) was a Jungian psychoanalyst, author, and professor 
 **Key contributions:**
 
 - Co-author of *King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine*
-- Developer of archetypal pattern analysis
+- Creator of the King Warrior Magician Lover archetypal system analysis
 - Pioneer in applying Jungian psychology to masculine initiation
 - Founder of the Institute for World Spirituality
 
@@ -111,7 +111,7 @@ Structured metadata for programmatic access:
 ```markdown
 > "[Quote text]"
 > — Dr. Robert Moore, *[Lecture Title]* ([timestamp])
-> [Source: `/foundations/moore-lectures/transcripts/[series]/[file].md`]
+> [Source: `/foundations/robert-robert-moore-lectures/transcripts/[series]/[file].md`]
 
 ```
 
@@ -120,7 +120,7 @@ Structured metadata for programmatic access:
 ```markdown
 > "Blessing is the King's primary function."
 > — Dr. Robert Moore, *The King Archetype* (00:23:15)
-> [Source: `/foundations/moore-lectures/transcripts/kwml/02-king-archetype.md`]
+> [Source: `/foundations/robert-moore-lectures/transcripts/kwml/02-king-archetype.md`]
 
 ```
 
