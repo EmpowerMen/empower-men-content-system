@@ -4,6 +4,31 @@ Ready-to-use prompts for executing skills. Copy, fill in the brackets, and paste
 
 ---
 
+## Template for Different Use Cases
+
+### For Known File Paths:
+```
+Using the EmpowerMen Content System (https://github.com/empowermen/empower-men-content-system), scrape the file at foundations/interpretations/holding-frame.md and create a [CONTENT TYPE] about [SPECIFIC ANGLE]. Include [REQUIREMENTS].
+```
+### For Unknown File Paths:
+```
+Using the EmpowerMen Content System:
+1. Scrape the repository file tree: https://api.github.com/repos/empowermen/empower-men-content-system/git/trees/main?recursive=1
+2. Locate files related to [TOPIC/KEYWORD]
+3. Read the relevant file(s)
+4. Create a [CONTENT TYPE] that [REQUIREMENTS]```
+```
+### For Applying ECS Skills (Not Foundational Content):
+```
+Using the EmpowerMen Content System methodology from https://github.com/empowermen/empower-men-content-system:
+1. Scrape the skill file: skills/[DOMAIN]/[SKILL-NAME]/skill.md
+2. Follow the workflow, templates, and rubrics provided
+3. Create [OUTPUT] for [SCENARIO]
+4. Validate against the rubric criteria
+```
+
+---
+
 ## UX Writing
 
 ### Error Messages
