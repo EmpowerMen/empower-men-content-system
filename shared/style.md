@@ -62,6 +62,33 @@ Capitalization, punctuation, formatting, and structure rules for all content out
 | `...` in UI | Incomplete thought | Complete the statement |
 | Mixed spelling (`color`/`colour`) | Inconsistent locale | Pick one per glossary |
 
+## Prohibited Writing Patterns
+
+### Em-Dash Rhetorical Pivots
+**❌ Do not use em-dashes to create dramatic contrast or "reveal" moments.**
+
+Examples to avoid:
+- "The Warrior archetype isn't about aggression—it's about discipline"
+- "Success isn't about working harder—it's about working smarter"
+- "Leadership isn't about control—it's about influence"
+
+This creates a formulaic rhythm that sounds profound but becomes repetitive and cliché.
+
+### "X Isn't About X, It's About Y" Formula
+**❌ Avoid this oversimplified contrast structure.**
+
+This pattern:
+- Negates a common assumption ("isn't about X")
+- Then provides the "real" meaning ("it's about Y")
+- Creates false binaries and oversimplifications
+- Is overused in coaching/self-help content
+
+**✅ Instead:** Make direct, positive statements about what something IS. Build nuance without cheap contrasts.
+
+Example:
+- ❌ "The Warrior isn't about aggression—it's about discipline"
+- ✅ "The Warrior embodies discipline and clear boundaries"
+
 ## Interaction with Skills
 
 1. All outputs inherit these rules.
