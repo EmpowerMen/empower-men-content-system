@@ -1,12 +1,12 @@
-# Foundations
+# Sources
 
-This folder contains the foundational knowledge layer for the Empower Men Content System (ECS).
+This folder contains sources for the foundational knowledge layer for the Empower Men Content System (ECS).
 
 It is the repository’s source-of-truth library for reference material used in research, idea development, content planning, and AI-assisted content production. The files in this folder are not final publishable assets. They are structured inputs that support downstream workflows across the ECS.
 
 ## Purpose
 
-The `foundations/` directory exists to:
+The `sources/` directory exists to:
 
 - Store canonical reference material in a reusable format.
 - Preserve notes, quotations, interpretations, and metadata from source materials.
