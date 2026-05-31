@@ -26,7 +26,40 @@ Using the EmpowerMen Content System methodology from https://github.com/empowerm
 3. Create [OUTPUT] for [SCENARIO]
 4. Validate against the rubric criteria
 ```
+# Template: Systematic File Search Prompt
 
+**Task:** Search through [REPOSITORY/FOLDER PATH] for content related to [TOPIC/CONCEPT]
+
+**Instructions:**
+1. First, list ALL files and subdirectories in [FOLDER NAME], including:
+   - All file types (.md, .txt, .docx, .csv, .json, .py, etc.)
+   - All subdirectories and their contents
+   - Files in nested folders (recurse through all subdirectories)
+
+2. Systematically search EVERY file for keywords: [KEYWORD 1], [KEYWORD 2], [KEYWORD 3]
+   - Do not skip any file type or folder
+   - Do not assume certain files are more relevant than others
+   - Include lecture transcripts, source files, indexes, and documentation
+
+3. For each file that contains matches:
+   - Extract complete quotes/sections (not just snippets)
+   - Include the full context (page numbers, record numbers, file paths)
+   - Note the source author and publication year if available
+
+4. Compile results into a comprehensive list organized by:
+   - Source file
+   - Theme/subtopic
+   - Relevance to the topic
+
+**Files to definitely include:**
+- All files in [SUBDIRECTORY 1] (e.g., foundations/sources/books/)
+- All files in [SUBDIRECTORY 2] (e.g., foundations/robert-moore-lectures/transcripts/)
+- All files in [SUBDIRECTORY 3] (e.g., foundations/indexes/)
+- All files in [SUBDIRECTORY 4] (e.g., foundations/misc/)
+
+**Only exclude:** Binary files that cannot be read as text (if you encounter errors, note them)
+
+**Output format:** [CSV / Markdown table / Numbered list with full quotes]
 ---
 
 ## UX Writing
