@@ -12,19 +12,46 @@ The `/foundations/` directory serves as:
 3. **Theoretical Framework** - The psychological and philosophical underpinnings of EmpowerMen
 4. **Citation Library** - Authoritative sources for quotes, concepts, and frameworks
 
-## Structure
+## File Structure Overview
 
-```
-/foundations/
-├── README.md                    (this file)
-├── robert-moore-lectures/              Dr. Robert Moore's lecture transcripts
-│   ├── README.md
-│   ├── INDEX.json
-│   ├── transcripts/
-│   ├── quotes/
-│   └── concepts/
-└── core-concepts/               (future) Distilled frameworks and models
-```
+The foundations folder contains source material organized into these subdirectories:
+
+### `sources/books/` (53 files)
+- Primary source books on archetypes (King, Warrior, Magician, Lover)
+- Key authors: Rod Boothroyd, Gillette & Moore, Robert Johnson, Robert Bly, Sam Keen
+- Format: `.md` (markdown)
+
+### `robert-moore-lectures/transcripts/` (15+ files)
+- Lecture transcripts from Robert Moore's teachings
+- Includes: "The Lover Within," "The Magician Within," "Archetypes and Ecstasy"
+- Formats: `.txt`, `.docx`, `.mp3.txt`
+- **Note:** Contains rich material on archetype integration and connection
+
+### `indexes/` (3 files)
+- `concept_index.csv` - Tags and concepts across all sources
+- `sources-index.md` - Source documentation
+- `sources_manifest_all.csv` - Complete source manifest
+
+### `concepts/` (1 file)
+- `core-concepts.md` - Practical recommendations from Moore's lectures
+
+### `interpretations/` (1 file)
+- `holding-frame.md` - Frame control and archetype integration
+
+### `misc/` (3 files)
+- `quotations.md` - Notable quotes
+- `meditations.md` - Practice materials
+- `artwork.md` - Visual resources
+
+## Searching the Content
+
+To search for specific topics (e.g., "Lover archetype and connection"):
+1. Search across ALL subdirectories, not just books
+2. Include lecture transcripts (often contain oral teaching nuances)
+3. Check the `concept_index.csv` for tagged concepts
+4. Review `sources_manifest_all.csv` for comprehensive source tracking
+
+**Key insight:** Lecture transcripts often contain more detailed explanations than book summaries.
 
 ## Current Contents
 
