@@ -1,6 +1,6 @@
 # Claude Instructions
 
-This is the **Hoover Content System (HCS)**, a skill-based system for content creation across UX writing, content design, content strategy, technical documentation, developer content, marketing, editorial, AI/MCP agents, and research synthesis.
+This is the **EmpowerMen Content System (ECS)**, a skill-based system for content creation across UX writing, content design, content strategy, technical documentation, developer content, marketing, editorial, AI/MCP agents, and research synthesis.
 
 ## What This Repo Is
 
